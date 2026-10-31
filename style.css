@@ -1,0 +1,14 @@
+/*
+Theme Name: Events Insider
+Theme URI: https://eventsinsider.com/
+Author: Events INSIDER
+Description: Custom theme for Events INSIDER, built from the 2026 Figma design. Works with the existing posts, the "events" post type, ACF venue fields, Contact Form 7 and WP-PageNavi.
+Version: 1.0.0
+Requires at least: 6.0
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: eventsinsider
+*/
+
+/* All styles live in assets/css/main.css. */
